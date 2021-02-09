@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resear"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -13,8 +13,8 @@ redirect_from:
 Cox's and Lasso
 
 ## Publications and Preprints
-2. ddd
-1. 333
+0. "Is it okay"
+0. "test"
 
 ## Projects
 
