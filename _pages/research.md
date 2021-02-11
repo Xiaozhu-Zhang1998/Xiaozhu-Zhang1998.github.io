@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Thesis
-[BSc. thesis](https://github.com/Xiaozhu-Zhang1998/BSc-thesis) (in Chinese) – On the graph-incorporated adaptive Lasso for Cox’s proportional hazards model with an application to the financial crisis warning system, supervised by [Prof. Xiaoyan Wang](http://jt.hnu.edu.cn/info/1091/1550.htm). 
+[BSc. thesis](https://github.com/Xiaozhu-Zhang1998/BSc-thesis) (in Chinese) – On the Graph-Incorporated Adaptive Lasso for Cox’s Proportional Hazards Model with an Application to the Financial Crisis Warning System, supervised by [Prof. Xiaoyan Wang](http://jt.hnu.edu.cn/info/1091/1550.htm). 
 
 ## Publications and Preprints
 [All in Chinese]
