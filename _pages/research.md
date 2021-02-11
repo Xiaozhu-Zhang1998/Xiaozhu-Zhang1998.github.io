@@ -14,6 +14,7 @@ redirect_from:
 
 ## Publications and Preprints
 [All in Chinese]
+
 0. The research of data-driven models based on the Opioid Crisis of five states in the U.S. (with Wenhao Qiu and Yiyu Zhuang), Mathematical Modeling and Its Applications, Vol. 8 No. 4 (2019), 54-63 [[online]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=QXYY201904007&v=MDUyMTg3SU5EWFNkN0c0SDlqTXE0OUZZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZmIrUnJGeXJoVUw=)
 
 0. A dynamic scheduling model of RGV based on multiple principles and Monte-Carlo simulation (with Wenhao Qiu and Yiyu Zhuang), Chinese Journal of Engineering mathematics, Vol. 35 Supp.1 (2018), 101-103
