@@ -19,6 +19,6 @@ redirect_from:
 {: reversed="reversed"}
 
 ## Projects
-[CUMCM training](https://github.com/Xiaozhu-Zhang1998/CUMCM) (in Chinese) – Summer 2018, collaborated with Wenhao Qiu, and Yiyu Zhuang at Hunan University. Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/index_en.html)) is one of the biggest applied math contests for undergraduates in China. I accomplished several problems/ projects in the training team, including the **Final Contest** where we won **National 1st prize, Top 8 out of 38,573**.
+[CUMCM training](https://github.com/Xiaozhu-Zhang1998/CUMCM) (in Chinese) – Summer 2018, collaborated with Wenhao Qiu, and Yiyu Zhuang at Hunan University. Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.mcm.edu.cn/index_en.html)) is one of the biggest applied math contests for undergraduates in China. I accomplished several problems/ projects in the training team, including the **Final Contest** where we won the **National 1st prize, Top 8 out of 38,573**.
 
 ## Software
