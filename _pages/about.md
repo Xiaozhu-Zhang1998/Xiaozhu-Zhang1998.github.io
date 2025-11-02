@@ -34,7 +34,7 @@ latest_posts:
 
 I am a third-year **Ph.D. student** in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/), currently advised by [Armeen Taeb](https://armeentaeb.github.io/index/). 
 
-Before coming to UW, I obtained my M.S. in Statistical Science at [Duke University]((https://stat.duke.edu/)) in 2023, where I worked with [Yuansi Chen](https://people.math.ethz.ch/~chenyua/about) and [Jerome Reiter](https://www2.stat.duke.edu/~jerry/). \\
+Before coming to UW, I obtained my M.S. in Statistical Science at [Duke University](https://stat.duke.edu/) in 2023, where I worked with [Yuansi Chen](https://people.math.ethz.ch/~chenyua/about) and [Jerome Reiter](https://www2.stat.duke.edu/~jerry/). \\
 Prior to that, I received my B.S. from Hunan University in China.
 
 
