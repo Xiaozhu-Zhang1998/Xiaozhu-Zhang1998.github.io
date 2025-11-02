@@ -1,14 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
+  more_info: >
+      <div style="text-align: center; font-size: 15px;">
+        In Chinese: 张笑竹
+      </div> 
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
@@ -17,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,4 +30,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in Statistics at the University of Washington.
+<br />
+
+I am a third-year **Ph.D. student** in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/), currently advised by [Armeen Taeb](https://armeentaeb.github.io/index/). 
+
+Before coming to UW, I obtained my M.S. in Statistical Science at [Duke University]((https://stat.duke.edu/)) in 2023, where I worked with [Yuansi Chen](https://people.math.ethz.ch/~chenyua/about) and [Jerome Reiter](https://www2.stat.duke.edu/~jerry/). \\
+Prior to that, I received my B.S. from Hunan University in China.
+
+
+My research interests include: 
+- model selection, uncertainty quantification
+- causal discovery
+
+<br />
+<br />
+
+
