@@ -39,7 +39,7 @@ Prior to that, I received my B.S. from Hunan University in China.
 
 
 My research interests include: 
-- model selection, uncertainty quantification
+- model selection, uncertainty quantification, multiple testing
 - causal discovery
 
 <br />
