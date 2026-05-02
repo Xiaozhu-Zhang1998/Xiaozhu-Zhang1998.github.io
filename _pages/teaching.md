@@ -11,6 +11,9 @@ nav_order: 4
 
 #### **UW**
 
+- **STAT 583: Advanced Theory of Statistical Inference III** \\
+Spring 2026, TA
+
 - **STAT 528: Applied Statistics Capstone** \\
 Winter 2026, TA \\
 Winter 2025, TA

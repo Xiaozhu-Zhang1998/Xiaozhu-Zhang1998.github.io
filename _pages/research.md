@@ -12,14 +12,14 @@ nav_order: 2
 #### **Papers**
 
 - **Convex Mixed-Integer Programming for Causal Additive Models with Optimization and Statistical Guarantees** \\
-Xiaozhu Zhang, Nir Keret, Ali Shojaie, Armeen Taeb \\
+<span class="author-underline">Xiaozhu Zhang</span>, Nir Keret, Ali Shojaie, Armeen Taeb \\
 *Preprint*, 2025 \\
 [`arXiv`](https://arxiv.org/abs/2511.21126) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/nonlinearCausalMIP_reproducible_code) &nbsp;
 
 
 - **Quantifying Uncertainty and Stability Among Highly Correlated Predictors: a Subspace Perspective** \\
-Xiaozhu Zhang, Jacob Bien, Armeen Taeb \\
+<span class="author-underline">Xiaozhu Zhang</span>, Jacob Bien, Armeen Taeb \\
 *Preprint*, 2025 \\
 [`arXiv`](https://arxiv.org/abs/2505.06760) &nbsp;
 [`Package`](https://github.com/Xiaozhu-Zhang1998/substab) &nbsp; 
@@ -29,7 +29,7 @@ Xiaozhu Zhang, Jacob Bien, Armeen Taeb \\
 
 
 - **A Generator for Generalized Inverse Gaussian Distributions** \\
-Xiaozhu Zhang, Jerome Reiter \\
+<span class="author-underline">Xiaozhu Zhang</span>, Jerome Reiter \\
 *Preprint*, 2022 \\
 [`arXiv`](https://arxiv.org/abs/2211.13049) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/GIGcpp) &nbsp;

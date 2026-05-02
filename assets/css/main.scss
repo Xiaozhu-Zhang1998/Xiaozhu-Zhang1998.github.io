@@ -23,3 +23,34 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.conf-underline {
+  color: #b026c9;
+  text-decoration: none;
+  border-bottom: 1.5px dashed #b026c9;
+  padding-bottom: 0px;
+}
+
+.author-underline {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px dashed black;
+  padding-bottom: 0px;
+}
+
+// a:hover {
+//   text-decoration: none !important;
+//   text-decoration-thickness: 2px;
+// }
+
+a,
+a:visited {
+  text-decoration: none;
+  transition: color 0.05s ease;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none !important;
+  color: #69189E;   /* choose your hover color */
+}
