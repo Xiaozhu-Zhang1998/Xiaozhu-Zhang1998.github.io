@@ -24,13 +24,15 @@ June 2026, Hong Kong  -->
 June 2026, Hong Kong 
 <!-- 🏆 *Supported by the [Graduate Student Conference Presentation Awards](https://facstaff.grad.uw.edu/advising-resources/funding-management/awards-funding-support/graduate-student-conference-presentation-awards/)*  -->
 
-- **Poster** at the <span class="conf-underline">[2026 American Causal Inference Conference](https://sci-info.org/2026-meeting-2/)</span>  \\
-May 2026, Salt Lake City
+
 
 
 ---
 
 #### **Past**
+
+- **Poster** at the <span class="conf-underline">[2026 American Causal Inference Conference](https://sci-info.org/2026-meeting-2/)</span>  \\
+May 2026, Salt Lake City
 
 - **Contributed talk** at the <span class="conf-underline">[5th Biennial Meeting of the Pacific Northwest Section of SIAM](https://sites.google.com/view/2025siampnwconference/)</span> \\
 October 2025, Seattle
