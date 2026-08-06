@@ -13,7 +13,8 @@ nav_order: 2
 
 - **Convex Mixed-Integer Programming for Causal Additive Models with Optimization and Statistical Guarantees** \\
 <span class="author-underline">Xiaozhu Zhang</span>, Nir Keret, Ali Shojaie, Armeen Taeb \\
-*Preprint*, 2025 \\
+*Preprint*, 2025 &nbsp; 
+*(Major revision at JASA)* \\
 [`arXiv`](https://arxiv.org/abs/2511.21126) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/nonlinearCausalMIP_reproducible_code) &nbsp;
 [`Poster`](/assets/pdf/causalmip_poster.pdf) &nbsp;
