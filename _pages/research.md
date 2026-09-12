@@ -18,6 +18,7 @@ nav_order: 2
 [`arXiv`](https://arxiv.org/abs/2511.21126) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/nonlinearCausalMIP_reproducible_code) &nbsp;
 [`Poster`](/assets/pdf/causalmip_poster.pdf) &nbsp;
+[`Slides`](/assets/pdf/causalmip_slides.pdf) &nbsp;
 
 
 - **Quantifying Uncertainty and Stability Among Highly Correlated Predictors: a Subspace Perspective** \\

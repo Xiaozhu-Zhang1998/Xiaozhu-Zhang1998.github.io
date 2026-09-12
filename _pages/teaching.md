@@ -27,6 +27,8 @@ Spring 2024, TA
 - **STAT 390: Statistical Methods in Engineering and Science** \\
 Autumn 2023, TA
 
+- **STAT 311: Elements of Statistical Methods** \\
+Autumn 2026, TA
 
 
 ---
