@@ -11,6 +11,13 @@ nav_order: 2
 
 #### **Papers**
 
+- **Convex Mixed-Integer Programming for Invariant Predictions from Multi-environment Data** \\
+<span class="author-underline">Xiaozhu Zhang</span>, Rahul Mazumder, Armeen Taeb \\
+*Preprint*, 2026 \\
+[`arXiv`](https://arxiv.org/abs/2610.38942) &nbsp;
+[`Code`](https://github.com/Xiaozhu-Zhang1998/mip_inv_pred) &nbsp;
+
+
 - **Convex Mixed-Integer Programming for Causal Additive Models with Optimization and Statistical Guarantees** \\
 <span class="author-underline">Xiaozhu Zhang</span>, Nir Keret, Ali Shojaie, Armeen Taeb \\
 *Preprint*, 2025 &nbsp; 
