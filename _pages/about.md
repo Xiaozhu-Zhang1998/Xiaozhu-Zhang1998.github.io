@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <div style="text-align: center; font-size: 15px;">
-        In Chinese: 张笑竹
-      </div> 
+    <div style="text-align: center; font-size: 15px;">
+      In Chinese: 张笑竹
+    </div>
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
@@ -32,19 +32,19 @@ latest_posts:
 
 <br />
 
-I am a fourth-year **Ph.D. student** in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/), currently advised by [Armeen Taeb](https://armeentaeb.github.io/index/). 
+I am a fourth-year **Ph.D. student** in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/), currently advised by [Armeen Taeb](https://armeentaeb.github.io/index/).
 
 Before coming to UW, I obtained my M.S. in Statistical Science at [Duke University](https://stat.duke.edu/) in 2023, advised by [Yuansi Chen](https://people.math.ethz.ch/~chenyua/about).
- <!-- and [Jerome Reiter](https://www2.stat.duke.edu/~jerry/). \\ --> 
+
+ <!-- and [Jerome Reiter](https://www2.stat.duke.edu/~jerry/). \\ -->
+
 Prior to that, I received my B.S. from Hunan University in China.
 
+My research interests include:
 
-My research interests include: 
 - model selection, uncertainty quantification
 - causal discovery, multi-source learning
 - mixed integer programming
 
 <br />
 <br />
-
-
