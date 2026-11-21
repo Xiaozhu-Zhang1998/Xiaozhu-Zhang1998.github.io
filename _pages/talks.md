@@ -11,12 +11,14 @@ nav_order: 3
 
 #### **Upcoming**
 
-- **Short talk & poster** at the <span class="conf-underline">[FIM-IMS Joint Workshop on Mathematics of Data Science](https://ims.nus.edu.sg/events/jointfimim_mathds/)</span> \\
-November 2026, Singapore 
+- 
 
 ---
 
 #### **Past**
+
+- **Short talk & poster** at the <span class="conf-underline">[FIM-IMS Joint Workshop on Mathematics of Data Science](https://ims.nus.edu.sg/events/jointfimim_mathds/)</span> \\
+November 2026, Singapore 
 
 - **General exam** at UW Statistics \\
 September 2026, Seattle

@@ -16,11 +16,12 @@ nav_order: 2
 *Preprint*, 2026 \\
 [`arXiv`](https://arxiv.org/abs/2610.38942) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/mip_inv_pred) &nbsp;
+[`Poster`](/assets/pdf/invpredmip_poster.pdf) &nbsp;
 
 
 - **Convex Mixed-Integer Programming for Causal Additive Models with Optimization and Statistical Guarantees** \\
-<span class="author-underline">Xiaozhu Zhang</span>, Nir Keret, Ali Shojaie, Armeen Taeb \\
-*Preprint*, 2025 &nbsp; 
+<span class="author-underline">Xiaozhu Zhang</span>, Nir Keret, Rahul Mazumder, Ali Shojaie, Armeen Taeb \\
+*Preprint*, 2026 &nbsp; 
 *(Major revision at JASA)* \\
 [`arXiv`](https://arxiv.org/abs/2511.21126) &nbsp;
 [`Code`](https://github.com/Xiaozhu-Zhang1998/nonlinearCausalMIP_reproducible_code) &nbsp;
