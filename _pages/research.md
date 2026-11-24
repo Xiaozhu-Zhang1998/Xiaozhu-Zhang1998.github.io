@@ -23,7 +23,7 @@ nav_order: 2
   _Preprint_, 2026 &nbsp;
   _(Major revision at JASA)_ \\
   [`arXiv`](https://arxiv.org/abs/2511.21126) &nbsp;
-  [`Code`](https://github.com/Xiaozhu-Zhang1998/nonlinearCausalMIP_reproducible_code) &nbsp;
+  [`Code`](https://github.com/Xiaozhu-Zhang1998/causal-additive-mip) &nbsp;
   [`Poster`](/assets/pdf/causalmip_poster.pdf) &nbsp;
   [`Slides`](/assets/pdf/causalmip_slides.pdf) &nbsp;
 
